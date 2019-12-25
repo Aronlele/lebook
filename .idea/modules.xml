@@ -5,7 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/java并发编程与高并发解决方案/2 并发基础/chapter2_base/chapter2_base.iml" filepath="$PROJECT_DIR$/java并发编程与高并发解决方案/2 并发基础/chapter2_base/chapter2_base.iml" />
       <module fileurl="file://$PROJECT_DIR$/java并发编程与高并发解决方案/3 线程安全/concurrent_safe/concurrent_safe.iml" filepath="$PROJECT_DIR$/java并发编程与高并发解决方案/3 线程安全/concurrent_safe/concurrent_safe.iml" />
       <module fileurl="file://$PROJECT_DIR$/lebook.iml" filepath="$PROJECT_DIR$/lebook.iml" />
-      <module fileurl="file://$PROJECT_DIR$/java并发编程与高并发解决方案/4 线程安全发布与溢出/safeandout/safeandout.iml" filepath="$PROJECT_DIR$/java并发编程与高并发解决方案/4 线程安全发布与溢出/safeandout/safeandout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java并发编程与高并发解决方案/4 线程安全发布与逸出/safeandout/safeandout.iml" filepath="$PROJECT_DIR$/java并发编程与高并发解决方案/4 线程安全发布与逸出/safeandout/safeandout.iml" />
     </modules>
   </component>
 </project>
